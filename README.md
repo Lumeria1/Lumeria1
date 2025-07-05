@@ -20,7 +20,7 @@
 - FastAPI web app in progress  
 - Real-time prediction interface coming soon
 
-### 📊 Football Tips Subscription Platform
+### 📊 WinTips – Football Tips Subscription Platform
 > SaaS app for publishing free and premium tips with Stripe billing  
 - Supabase + Stripe + Tailwind  
 - Role-based access, admin dashboard  
@@ -33,7 +33,7 @@
 **Frameworks**: FastAPI, React, Tailwind  
 **ML & Data**: scikit-learn, Pandas, PostgreSQL  
 **Infra**: Docker, Supabase, Celery, GitHub Actions, Stripe  
-**Soft Skills**: Agile, PM/BA, system design, cross-functional collaboration
+**Soft Skills**: Agile, Project Manager, Business Analyst, System Design, Cross-functional Collaboration
 
 ---
 
